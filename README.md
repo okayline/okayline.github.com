@@ -6,7 +6,7 @@
 <img width="50%" height="50%" alt="new GITS anime coming out soon!  this is the 'cyberpunk' part of the page" src="https://github.com/user-attachments/assets/1e96d0db-be60-4a13-87a6-046a015878d8" />
 
 <br><br>
-#### ✨ June 26, 2026
+### [<ins>✨ June 26, 2026</ins>]
 ##### *@15:40* - Lol Blogging on Github.<br>
 ##### Okay well today is "Learning About Markdown Day" because writing this blog is the first time I'm ever doing MD.  It's a good reason to learn!<br><br>So for the past week or so I've been deep in this Cloud Services and Apps rabbit hole.  And learning so much every day, learned how to launch containers from Portainer, setting up Nginx Reverse Proxy, and now super into self-hosting some apps.  I even signed up for a Github account after years and YEARS of using it without one, signed up just to learn about integrating it with S3 buckets and workers.<br>
 ##### The purpose of this blog is to dump my brain about all the stuff I've been learning about and experimenting with lately!  The blog format is to try to keep it somewhat focused, hopefully there will be entries about topics like "Free Cloud Hosting Providers" or "SQL and PostgreSQL Hosting".  But for now basically just braindumping/infodumping.<br>
@@ -15,19 +15,29 @@
 ##### *@19:32* - Okay I set everything up!<br><br>Set a MariaDB docker container up , used it as the Nextcloud backend on initial install, External Storage plugin and connected Cloudflare S3 and WebDAV.  Thinking about connecting up Google Drive.  Am currently in the process of having Nextcloud back itself up.<br><br>Speaking of backing up, my next project is ***Rclone*** (uh oh!)<br>
 
 ##### Also I'm very happy that you can use normal HTML tags in MD and it works!  So it truly feels like blogging by writing/hacking together an HTML file in Notepad back in the day.
+<br>
 
-##### Listening to <a href="https://www.youtube.com/watch?v=H1d_aEantvc"><ins>Memory System | Ambient Swim | Liquid DnB, Jungle, Breakcore</ins></a>,   Feeling <sub><a href="https://www.imood.com/users/kayline"><img width="60" height="15" alt="68747470733a2f2f6d6f6f64732e696d6f6f642e636f6d2f646973706c61792f756e616d652d6b61796c696e652f696d6f6f642e676966" src="https://github.com/user-attachments/assets/a87efe2f-bad3-434d-ab5e-67e53635a981" />
+##### *@21:23* Yay just got rclone web gui working FINALLY with the string
+> 'rcd' '--rc-web-gui' '--rc-addr' ':5572' '--rc-user' 'admin' '--rc-pass' 'password123'
+##### It took a while to get the web gui up and working properly.  Now Gotta learn all about rclone Configs and Mounts!<br><br>Today was super productive, got a whole mariadb up and running, did the best install of Nextcloud yet with the proper backend, and now got rclone working!  Rclone unlocks a lot, <a href="https://www.youtube.com/watch?v=qJ4_h42V5LY">Now I'm Playing With Power</a> .
+<br>
+
+<hr>
+
+##### Listening to <a href="https://www.youtube.com/watch?v=H1d_aEantvc"><ins>Memory System | Ambient Swim | Liquid DnB, Jungle, Breakcore</ins></a>,  Feeling <sub><a href="https://www.imood.com/users/kayline"><img width="60" height="15" alt="68747470733a2f2f6d6f6f64732e696d6f6f642e636f6d2f646973706c61792f756e616d652d6b61796c696e652f696d6f6f642e676966" src="https://github.com/user-attachments/assets/a87efe2f-bad3-434d-ab5e-67e53635a981" />
 
 <br>
 
-#### ✨ June 25, 2026
+### [<ins>✨ June 25, 2026</ins>]
 ##### *@20:20* - This is sort of an inelegant approach, just directly writing everything directly on the README.md, but it works!
 
 <br>
 
-#### ✨ Content
+### [<ins>✨ Content</ins>]
 ##### Write your amazing content here...
 
 <br><br>
 
-##### okayline.github.com | This page was created using a modified template from https://mdkit.io/templates/blog-post-draft | Last updated by hand at 19:45 June 26, 2026
+<hr>
+
+<sub> okayline.github.com | This page was created using a modified template from mdkit.io/templates/blog-post-draft | Last updated by hand at 21:45 June 26, 2026</sub>
